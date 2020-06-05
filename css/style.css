@@ -102,8 +102,8 @@ table {border-collapse: collapse;
            padding: 0px 40px;
            text-decoration: none;}
 
-/* Change the link color to #111 (black) on hover */
-.li_nav a:hover {background-color: #111;}
+/* Change the link color to #999 (light grey) on hover */
+.li_nav a:hover {color: #999;}
 
 .iphone_img_logo  {float: left;
                    margin: 0 0 25px 4px;
@@ -218,6 +218,8 @@ footer a {text-decoration: none;
 .anchor_learn:hover,
 .anchor_watch:hover {text-decoration: underline;
                      color: #111;}
+
+.adapter_motto:hover {text-decoration: underline;}
 
 .col {padding: 20px 0 0;
       float: left;
